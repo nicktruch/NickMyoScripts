@@ -3,6 +3,6 @@ NickMyoScripts
 
 First go creating Myo Scripts in Lua.
 
-# Script list :
+## Script list :
 - Safari gesture control
 - Webmail control (inspired by alex...)
